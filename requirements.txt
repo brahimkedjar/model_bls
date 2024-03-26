@@ -1,5 +1,5 @@
 tensorflow==2.15.0
 opencv-python==4.9.0.80
-numpy==1.8.2
+numpy==1.19.5
 scikit-learn==0.20
 keras ==3.1.1
