@@ -1,0 +1,4 @@
+tensorflow==2.7.0  # or the version you used during development
+opencv-python==4.5.4  # for image processing with OpenCV
+numpy==1.21.5  # for numerical operations
+scikit-learn==0.24.2  # for train-test splitting and other utilities
